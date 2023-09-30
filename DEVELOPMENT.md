@@ -143,4 +143,5 @@ Rodar
 
 # Projetos GO
 
-TBD
+- [Setup do workspace](https://github.com/golang/tools/blob/master/gopls/doc/workspace.md)
+
